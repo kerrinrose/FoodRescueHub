@@ -2,8 +2,8 @@
 // suppress error notices
 error_reporting(E_ALL & ~E_NOTICE);
 // database credentials
-$db_user = 'root';
-$db_password = 'root';
-$db_host = 'localhost';
-$db_name = 'foodhub';
+$db_user = '***';
+$db_password = '***';
+$db_host = '***';
+$db_name = '***';
 ?>
